@@ -5,3 +5,6 @@ controles:
 left arrow: left
 right arrow: right
 space: jump
+
+
+If you have any questions drop mail on ketankhandagale@gmail.com
