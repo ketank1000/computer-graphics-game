@@ -8,3 +8,7 @@ space: jump
 
 
 If you have any questions drop mail on ketankhandagale@gmail.com
+
+Developers:
+1) Ketan Khandagale
+2) Alok Karnik
